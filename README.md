@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RubaSabri
-- 👀 I’m interested in AI
+- 👀 I’m interested in AI, Electronics, and Embedded Systems.
 - 🌱 I’m currently learning electrical eng
-- 💞️ I’m looking to collaborate on AI projects 
+- 💞️ I’m looking to collaborate on AI & Electronics projects 
 - 📫 How to reach me ruba_sab (instagram)
 - 😄 Pronouns: what ??
 - ⚡ Fun fact: no fun facts 
